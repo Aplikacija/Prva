@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prva</string>
+    <string name="Naslov">Ovo je samo proba</string>
+    <string name="Longituda">Longituda</string>
+    <string name="Latituda">Latituda</string>
+    <string name="TextLo"></string>
+    <string name="TextLa"></string>
+    <string name="action_settings">Settings</string>
+</resources>
